@@ -18,21 +18,21 @@ A simple and functional ToDo application built with React and TypeScript. It all
 
 Clone the repository:
 
-````bash
+```bash
 git clone https://github.com/izuwiiii/todo-app
-
+```
 Navigate into the project folder:
 ```bash
 cd your-repo-name
-
+```
 Install dependencies:
 ```bash
 npm install
-
+```
 Start the development server:
 ```bash
-npm run dev
-
+npm start
+```
 The app will be available at http://localhost:5173 (or similar, depending on your setup).
 
 Features
