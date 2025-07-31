@@ -23,7 +23,7 @@ git clone https://github.com/izuwiiii/todo-app
 ```
 Navigate into the project folder:
 ```bash
-cd your-repo-name
+cd todo-app
 ```
 Install dependencies:
 ```bash
